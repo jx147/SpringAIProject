@@ -1,10 +1,10 @@
-package org.example.springaiproject;
+package org.example.quickstart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringAiProjectApplicationTests {
+class QuickStartApplicationTests {
 
     @Test
     void contextLoads() {

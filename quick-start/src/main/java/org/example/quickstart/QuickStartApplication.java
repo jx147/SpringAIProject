@@ -1,13 +1,13 @@
-package org.example.springaiproject;
+package org.example.quickstart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringAiProjectApplication {
+public class QuickStartApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringAiProjectApplication.class, args);
+        SpringApplication.run(QuickStartApplication.class, args);
     }
 
 }
