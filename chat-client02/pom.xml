@@ -6,12 +6,11 @@
         <groupId>org.example</groupId>
         <artifactId>SpringAIProject</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <artifactId>chat-client</artifactId>
+    <artifactId>chat-client02</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>chat-client</name>
+    <name>chat-client02</name>
 
     <properties>
         <java.version>17</java.version>
